@@ -10,6 +10,7 @@ def get_multiplied_digits(number):
 
 
 print(get_multiplied_digits(2025))
+print("Поздравляю вас с наступающим 2025 годом!!!")
 
 
 
