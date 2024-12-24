@@ -11,7 +11,7 @@ def single_root_words(root_word, *other_words):
     return same_words, words
 
 
-same_words, words = single_root_words("тр", "Тропа", "треска", "трава", "друг", "ТРЕК")
+same_words, words = single_root_words("тр", "Трактор", "трамВай","треска", "трава", "друг", "ТРЕК")
 print("Однокоренные:", same_words)
 print("Не однокоренные:", words)
 
